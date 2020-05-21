@@ -1,0 +1,60 @@
+c:\users\asus\documents\visual studio 2013\Projects\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+c:\users\asus\documents\visual studio 2013\Projects\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2013\Projects\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2013\Projects\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2013\Projects\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+c:\users\asus\documents\visual studio 2013\Projects\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+c:\users\asus\documents\visual studio 2013\Projects\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.exe
+c:\users\asus\documents\visual studio 2013\Projects\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.LibMng.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\LibraryManagement\LibraryManagement\bin\Debug\LibData.mdf
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\LibraryManagement\LibraryManagement\bin\Debug\LibData_log.ldf
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Login.resources
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\LibraryManagement\LibraryManagement\bin\Debug\Data.mdf
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\LibraryManagement\LibraryManagement\bin\Debug\Data_log.ldf
+C:\Users\ASUS\Documents\Visual Studio 2013\Projects\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.GuestLibMng.resources
+D:\BK\HK181\LTHDT\BT\BTL\LibraryManagement\LibraryManagement\bin\Debug\Data.mdf
+D:\BK\HK181\LTHDT\BT\BTL\LibraryManagement\LibraryManagement\bin\Debug\Data_log.ldf
+D:\BK\HK181\LTHDT\BT\BTL\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+D:\BK\HK181\LTHDT\BT\BTL\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+D:\BK\HK181\LTHDT\BT\BTL\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+D:\BK\HK181\LTHDT\BT\BTL\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csprojAssemblyReference.cache
+D:\BK\HK181\LTHDT\BT\BTL\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.GuestLibMng.resources
+D:\BK\HK181\LTHDT\BT\BTL\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Login.resources
+D:\BK\HK181\LTHDT\BT\BTL\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.LibMng.resources
+D:\BK\HK181\LTHDT\BT\BTL\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Properties.Resources.resources
+D:\BK\HK181\LTHDT\BT\BTL\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.GenerateResource.cache
+D:\BK\HK181\LTHDT\BT\BTL\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+D:\BK\HK181\LTHDT\BT\BTL\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.exe
+D:\BK\HK181\LTHDT\BT\BTL\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
+D:\BK\HK181\LTHDT\BT\BTL\LibraryManagement\LibraryManagement\bin\Debug\LibDatamdf.mdf
+D:\BK\HK181\LTHDT\BT\BTL\LibraryManagement\LibraryManagement\bin\Debug\LibDatamdf_log.ldf
+D:\BK\HK181\LTHDT\BT\BTL\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.BrwList.resources
+F:\Học tập\Lập trình HDT\BTL\LibraryManagement\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+F:\Học tập\Lập trình HDT\BTL\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.exe
+F:\Học tập\Lập trình HDT\BTL\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
+F:\Học tập\Lập trình HDT\BTL\LibraryManagement\LibraryManagement\LibraryManagement\bin\Debug\Data.mdf
+F:\Học tập\Lập trình HDT\BTL\LibraryManagement\LibraryManagement\LibraryManagement\bin\Debug\Data_log.ldf
+F:\Học tập\Lập trình HDT\BTL\LibraryManagement\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+F:\Học tập\Lập trình HDT\BTL\LibraryManagement\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+F:\Học tập\Lập trình HDT\BTL\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csprojResolveAssemblyReference.cache
+F:\Học tập\Lập trình HDT\BTL\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.BrwList.resources
+F:\Học tập\Lập trình HDT\BTL\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.GuestLibMng.resources
+F:\Học tập\Lập trình HDT\BTL\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Login.resources
+F:\Học tập\Lập trình HDT\BTL\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.LibMng.resources
+F:\Học tập\Lập trình HDT\BTL\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Properties.Resources.resources
+F:\Học tập\Lập trình HDT\BTL\LibraryManagement\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.GenerateResource.Cache
+F:\Học tập\Lập trình HDT\BTL\LibMngUpdate\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe.config
+F:\Học tập\Lập trình HDT\BTL\LibMngUpdate\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.exe
+F:\Học tập\Lập trình HDT\BTL\LibMngUpdate\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb
+F:\Học tập\Lập trình HDT\BTL\LibMngUpdate\LibraryManagement\LibraryManagement\bin\Debug\Data.mdf
+F:\Học tập\Lập trình HDT\BTL\LibMngUpdate\LibraryManagement\LibraryManagement\bin\Debug\Data_log.ldf
+F:\Học tập\Lập trình HDT\BTL\LibMngUpdate\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.exe
+F:\Học tập\Lập trình HDT\BTL\LibMngUpdate\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+F:\Học tập\Lập trình HDT\BTL\LibMngUpdate\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csprojResolveAssemblyReference.cache
+F:\Học tập\Lập trình HDT\BTL\LibMngUpdate\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.BrwList.resources
+F:\Học tập\Lập trình HDT\BTL\LibMngUpdate\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.GuestLibMng.resources
+F:\Học tập\Lập trình HDT\BTL\LibMngUpdate\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.LibMng.resources
+F:\Học tập\Lập trình HDT\BTL\LibMngUpdate\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Login.resources
+F:\Học tập\Lập trình HDT\BTL\LibMngUpdate\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.Properties.Resources.resources
+F:\Học tập\Lập trình HDT\BTL\LibMngUpdate\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.GenerateResource.Cache
